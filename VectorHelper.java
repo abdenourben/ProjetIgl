@@ -69,3 +69,6 @@ public static void vectorInvers(int tab[], int taille){
 
     }
 }
+
+
+merde tout ça ! 
