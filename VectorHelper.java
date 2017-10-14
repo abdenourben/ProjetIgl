@@ -1,3 +1,5 @@
+merde merde 
+
 public class VectorHelper {
 
     public static void vectorTri(int tab[],int taille){
